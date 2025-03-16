@@ -1,1 +1,5 @@
 venv_IDL2/ 
+!venv_IDL2/requirements.txt
+!venv_IDL2/synthetic_sales_data.csv
+!venv_IDL2/eda_sales_pyspark.py
+
